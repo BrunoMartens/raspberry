@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "TEST"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "TEST",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 0
+      }
+    ]
+  }
+}
